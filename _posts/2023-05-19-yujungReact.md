@@ -52,8 +52,8 @@ preview: 0
 ### ■ 자료형과 형 변환
 
 ### ● 자바스크립트의 자료형
-> -&nbsp;<b>Primmitive Type(원시 타입)</b>: 한번에 하나의 값만 가질 수 있음..하나의 고정된 저장 공간 이용  ex) let numer = 12;<br/>
-> -&nbsp;<b>Non-Primitive Type(비 원시 타입)</b>: 한번에 여러 개의 값을 가질 수 있음..여러 개의 고정되지 않은 많은 동적 공간 사용  ex) let array = [1,2,3,4];<br/>
+> -&nbsp;<b>Primmitive Type(원시 타입)</b>: 한번에 하나의 값만 가질 수 있음..하나의 고정된 저장 공간 이용 &nbsp;ex) let numer = 12;<br/>
+> -&nbsp;<b>Non-Primitive Type(비 원시 타입)</b>: 한번에 여러 개의 값을 가질 수 있음..여러 개의 고정되지 않은 많은 동적 공간 사용 &nbsp;ex) let array = [1,2,3,4];<br/>
 
 <br/>
 
@@ -903,7 +903,7 @@ console.log(color1, color2, color3);
 ## 섹션4. React.js 기초
 
 ### ■ Why React?
-1. 컴포넌트화 방식을 통해 중복되는 코드를 줄일 수 있다.(Component 기반의 UI 라이브러리 React를 사용)
+1. 컴포넌트화 방식을 통해 중복되는 코드를 줄일 수 있다. (Component 기반의 UI 라이브러리 React를 사용)
 2. 목적을 바로 말하는 선언형 프로그래밍
 3.  Virtual Dom 사용
 
