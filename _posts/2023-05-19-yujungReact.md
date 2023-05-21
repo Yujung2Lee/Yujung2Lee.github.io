@@ -14,6 +14,7 @@ preview: 0
 ## 섹션1. JavaScript 기본
 
 <br/>
+
 ### ■ Hello World
 
 - 웹사이트는 HTML, CSS Javascript 3가지 언어로 만들어 진다.
@@ -696,7 +697,6 @@ console.log(allCookies);
 
 ### ■ 동기 & 비동기
 
-<br/>
 ### &nbsp;● 동기 방식의 처리
 &nbsp;&nbsp;&nbsp;- 자바스크립트는 코드가 작성된 순서대로 작업을 처리<br/>
 &nbsp;&nbsp;&nbsp;- 이전 작업이 진행중일 때는 다음 작업을 수행하지 않고 기다림<br/>
