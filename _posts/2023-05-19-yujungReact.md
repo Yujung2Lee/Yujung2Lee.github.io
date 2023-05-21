@@ -869,8 +869,6 @@ module.exports = { //node.js에 있는 내장함수
 
 ### ■ Node.js 패키지 생성 및 외부 패키지 사용하기(프로젝트 & npm)
 
-<br/>
-
 ### ● npm(Node Package Manager): Node.js의 패키지 관리 도구
 
 <img src="https://github.com/BlueWings2017/BlueWings2017.github.io/blob/main/post-img/TeamC/springYujung1.jpg?raw=true" width="640" height="auto"/>
