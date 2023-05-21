@@ -11,6 +11,7 @@ preview: 0
 
 ## 💠 리액트(React.js)
 <br/>
+
 ## 섹션1. JavaScript 기본
 
 ### ■ Hello World
@@ -40,6 +41,7 @@ preview: 0
 &nbsp;&nbsp;- 변하지 않는 값 <span style="color: red;">변수선언 후 값 변경 불가능</span>
 
 <br/>
+
 ### ● 변수 설정 규칙
 > 1. 변수명에는 기호를 사용할 수 없다. (사용가능 기호: _ &nbsp; $)<br/>
 > 2. 변수명은 반드시 숫자가 아닌 문자로 시작<br/>
