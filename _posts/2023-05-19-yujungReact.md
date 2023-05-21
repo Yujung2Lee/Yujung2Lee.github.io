@@ -476,7 +476,6 @@ console.log(
 
 ## 섹션2. JavaScript 응용
 
-<br/>
 ### ■ Truthy & Faisy
 
 - Truthy: 참 같은 값<br/>
