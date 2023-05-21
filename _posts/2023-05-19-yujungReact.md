@@ -13,8 +13,6 @@ preview: 0
 
 ## 섹션1. JavaScript 기본
 
-<br/>
-
 ### ■ Hello World
 
 - 웹사이트는 HTML, CSS Javascript 3가지 언어로 만들어 진다.
