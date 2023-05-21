@@ -3,7 +3,7 @@ layout: post
 title:  "yujungSpring1"
 author: 이유정
 date:   2023-04-13
-category: TeamC
+category: category1
 icon: spring
 keywords: tag1, tag2
 preview: 0
