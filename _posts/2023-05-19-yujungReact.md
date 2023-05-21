@@ -14,7 +14,6 @@ preview: 0
 ## 섹션1. JavaScript 기본
 
 <br/>
-
 ### ■ Hello World
 
 - 웹사이트는 HTML, CSS Javascript 3가지 언어로 만들어 진다.
@@ -479,7 +478,6 @@ console.log(
 ## 섹션2. JavaScript 응용
 
 <br/>
-
 ### ■ Truthy & Faisy
 
 - Truthy: 참 같은 값<br/>
