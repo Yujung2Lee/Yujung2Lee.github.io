@@ -9,7 +9,7 @@ keywords: tag1, tag2
 preview: 0
 ---
 
-# 💠 리액트(React.js)
+## 💠 리액트(React.js)
 <br/>
 
 ## 섹션1. JavaScript 기본
