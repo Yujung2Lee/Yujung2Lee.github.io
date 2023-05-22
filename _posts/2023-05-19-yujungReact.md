@@ -722,7 +722,7 @@ console.log(allCookies);
 
 : 먼저 작성된 코드의 결과를 기다리지 않고 다음 코드를 바로 실행
 
-<img src="https://github.com/BlueWings2017/BlueWings2017.github.io/blob/main/post-img/TeamC/reactYujung1.jpg?raw=true" width="750" height="auto"/>
+<img src="https://github.com/BlueWings2017/BlueWings2017.github.io/blob/main/post-img/TeamC/reactYujung1.jpg?raw=true" width="800" height="auto"/>
 
 <br/>
 
@@ -849,7 +849,7 @@ getData();
 
 ### ■ Node.js란?
 
-<img src="https://github.com/BlueWings2017/BlueWings2017.github.io/blob/main/post-img/TeamC/reactYujung3.jpg?raw=true" width="750" height="auto"/>
+<img src="https://github.com/BlueWings2017/BlueWings2017.github.io/blob/main/post-img/TeamC/reactYujung3.jpg?raw=true" width="780" height="auto"/>
 
 <br/>
 
